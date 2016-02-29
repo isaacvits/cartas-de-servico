@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>e-Social - Empregador Doméstico</nome>
-    <sigla/>
-    <nomes-populares/>
-    <descricao>Portal com orientações, funcionalidades e aplicativos para ajudar o empregador, em um primeiro momento essencialmente o empregador doméstico, a cumprir obrigações trabalhistas e tributárias decorrentes das relações de trabalho. O Portal foi desenvolvido em ação conjunta da Caixa Econômica Federal, do Instituto Nacional do Seguro Social – INSS, do Ministério da Previdência – MPS, do Ministério do Trabalho e Emprego – MTE e da Secretaria da Receita Federal do Brasil – RFB.</descricao>
-    <gratuito/>
-    <solicitantes/>
+    <nome><![CDATA[e-Social - Empregador Doméstico]]></nome>
+    <sigla>FGTS</sigla>
+    <nomes-populares>
+        <item>FGTS domestica</item>
+    </nomes-populares>
+    <descricao><![CDATA[Portal com orientações, funcionalidades e aplicativos para ajudar o empregador, em um primeiro momento essencialmente o empregador doméstico, a cumprir obrigações trabalhistas e tributárias decorrentes das relações de trabalho. O Portal foi desenvolvido em ação conjunta da Caixa Econômica Federal, do Instituto Nacional do Seguro Social – INSS, do Ministério da Previdência – MPS, do Ministério do Trabalho e Emprego – MTE e da Secretaria da Receita Federal do Brasil – RFB.]]></descricao>
+    <contato/>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Empregador</tipo>
+            <requisitos><![CDATA[Fazer o que é certo]]></requisitos>
+        </solicitante>
+    </solicitantes>
     <tempo-total-estimado>
-        <descricao/>
+        <ate max="5" unidade="dias-uteis"/>
+        <descricao><![CDATA[Com o eSocial, eu como empregador, após gerar recibo e guia de arrecadação de  empregado domestico, tenho alguma outra obrigatoriedade?]]></descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa>
@@ -22,7 +31,7 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="web">
-                        <descricao>http://www.esocial.gov.br/Default.aspx</descricao>
+                        <descricao><![CDATA[http://www.esocial.gov.br/Default.aspx]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
