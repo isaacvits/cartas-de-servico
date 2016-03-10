@@ -4,11 +4,11 @@
     <sigla/>
     <nomes-populares/>
     <descricao><![CDATA[Benefício concedido ao segurado impedido de trabalhar por doença ou acidente por mais de 15 dias consecutivos. No caso dos trabalhadores com carteira assinada, os primeiros 15 dias são pagos pelo empregador, exceto o doméstico, e a Previdência Social paga a partir do 16º dia de afastamento do trabalho. Para os demais segurados inclusive o doméstico, a Previdência paga o auxílio desde o início da incapacidade e enquanto a mesma perdurar.]]></descricao>
-    <contato/>
+    <contato><![CDATA[Blog informativo sobre o [benefício do auxílio doença](http://auxiliodoenca.com) e dicas para os cidadãos que procuram informações sobre o Benefício de Incapaz da Previdência.]]></contato>
     <gratuito/>
     <solicitantes/>
     <tempo-total-estimado>
-        <descricao><![CDATA[Confira mais dicas sobre o benefício de incapaz neste blog informativo [sobre o auxílio doença](http://servicos.gov.br).]]></descricao>
+        <descricao/>
     </tempo-total-estimado>
     <etapas>
         <etapa>
@@ -27,9 +27,6 @@
                     </canal-de-prestacao>
                     <canal-de-prestacao tipo="presencial">
                         <descricao><![CDATA[Serviço prestado nas Agência da Previdência Social.]]></descricao>
-                    </canal-de-prestacao>
-                    <canal-de-prestacao tipo="web-declarar">
-                        <descricao><![CDATA[http://auxiliodoenca.com]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
