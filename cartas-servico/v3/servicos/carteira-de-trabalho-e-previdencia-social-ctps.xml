@@ -11,10 +11,10 @@
 
 * [Mais informações](http://portal.mte.gov.br/ctps/)]]></descricao>
     <contato/>
-    <gratuito/>
+    <gratuito>true</gratuito>
     <solicitantes/>
     <tempo-total-estimado>
-        <descricao/>
+        <descricao><![CDATA[Emissão de segunda via]]></descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa>
