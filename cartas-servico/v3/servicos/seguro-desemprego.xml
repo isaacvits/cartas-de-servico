@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Seguro-Desemprego</nome>
+    <nome><![CDATA[Seguro-Desemprego]]></nome>
     <sigla/>
     <nomes-populares/>
-    <descricao>Seguro-Desemprego Formal: Seguro-desemprego ao trabalhador formal possui como finalidade: prover assistência financeira temporária a trabalhadores desempregados sem justa causa e auxiliá-los na busca de um novo emprego, por meio de orientação, recolocação no mercado de trabalho e/ou qualificação profissional.
+    <descricao><![CDATA[Seguro-Desemprego Formal: Seguro-desemprego ao trabalhador formal possui como finalidade: prover assistência financeira temporária a trabalhadores desempregados sem justa causa e auxiliá-los na busca de um novo emprego, por meio de orientação, recolocação no mercado de trabalho e/ou qualificação profissional.
 
 Seguro-Desemprego Pescador Artesanal: É dirigido ao pescador profissional que exerça sua atividade de forma artesanal, individual ou em regime de economia familiar, ainda que com auxílio eventual de parceiros e que teve que interromper a atividade pesqueira devido ao período de proibição da pesca, para preservação da espécie (defeso), fixado através de Instrumento Normativo publicado no Diário Oficial da União.
 
@@ -30,7 +30,8 @@ Seguro-Desemprego Bolsa Qualificação: A Bolsa de Qualificação Profissional �
                 Empregado Doméstico/Trabalhador Resgatado: (61) 2031-6135/6226
                 Bolsa Qualificação: (61) 2031-6196/6509
 
-* [Localização das unidades](http://portal.mte.gov.br/postos/): Postos de atendimento do Ministério do Trabalho e Emprego</descricao>
+* [Localização das unidades](http://portal.mte.gov.br/postos/): Postos de atendimento do Ministério do Trabalho e Emprego]]></descricao>
+    <contato/>
     <gratuito/>
     <solicitantes/>
     <tempo-total-estimado>
@@ -49,7 +50,7 @@ Seguro-Desemprego Bolsa Qualificação: A Bolsa de Qualificação Profissional �
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao>O cidadão poderá comparecer a um dos postos de atendimento do Ministério do Trabalho e Emprego, como: Superintendência Regional do Trabalho e Emprego - SRTE; Gerência Regional; Agência Regional ou Postos credenciados do SINE.</descricao>
+                        <descricao><![CDATA[O cidadão poderá comparecer a um dos postos de atendimento do Ministério do Trabalho e Emprego, como: Superintendência Regional do Trabalho e Emprego - SRTE; Gerência Regional; Agência Regional ou Postos credenciados do SINE.]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
