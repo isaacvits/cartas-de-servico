@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
     <nome><![CDATA[Carteira de Trabalho e Previdência Social - CTPS]]></nome>
-    <sigla/>
-    <nomes-populares>
-        <item>carlos Alberto fontes da silva</item>
-    </nomes-populares>
+    <sigla>numero do pis</sigla>
+    <nomes-populares/>
     <descricao><![CDATA[A Carteira de Trabalho e Previdência Social - CTPS é documento obrigatório para qualquer cidadão que queira prestar serviços no país. Ela garante acesso a direitos trabalhistas, como seguro-desemprego, benefícios da Previdência Social e do Fundo de Garantia do Tempo de Serviço - FGTS.
 
 * [Localização das unidades](http://portal.mte.gov.br/postos/)
@@ -14,7 +12,8 @@
     <gratuito>true</gratuito>
     <solicitantes/>
     <tempo-total-estimado>
-        <descricao><![CDATA[Emissão de segunda via]]></descricao>
+        <entre max="" min="" unidade=""/>
+        <descricao/>
     </tempo-total-estimado>
     <etapas>
         <etapa>
