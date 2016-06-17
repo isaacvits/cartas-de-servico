@@ -26,7 +26,7 @@
                         <descricao><![CDATA[http://www2.dataprev.gov.br/prevagenda/OpcaoInicialTela.view]]></descricao>
                     </canal-de-prestacao>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao><![CDATA[Serviço prestado nas Agências da Previdência Social.]]></descricao>
+                        <descricao><![CDATA[Serviço prestado nas Agências da Previdênciao Social.]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
