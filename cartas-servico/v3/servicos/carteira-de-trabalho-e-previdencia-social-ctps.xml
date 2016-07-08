@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
     <nome><![CDATA[Carteira de Trabalho e Previdência Social - CTPS]]></nome>
-    <sigla>numero do pis</sigla>
-    <nomes-populares/>
+    <sigla>numero do pis16745746396</sigla>
+    <nomes-populares>
+        <item>nLqBBZDo7A.</item>
+    </nomes-populares>
     <descricao><![CDATA[A Carteira de Trabalho e Previdência Social - CTPS é documento obrigatório para qualquer cidadão que queira prestar serviços no país. Ela garante acesso a direitos trabalhistas, como seguro-desemprego, benefícios da Previdência Social e do Fundo de Garantia do Tempo de Serviço - FGTS.
 
 * [Localização das unidades](http://portal.mte.gov.br/postos/)
