@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Cadastramento da Comunicação de Acidente de Trabalho (CAT)</nome>
-    <sigla/>
-    <nomes-populares/>
-    <descricao>Possibilita cadastrar a "Comunicação de Acidente de Trabalho - CAT" junto ao INSS, para facilitar e agilizar o registro dos Acidentes de Trabalho e das Doenças Ocupacionais, pelo Empregador, havendo ou não afastamento do trabalho por parte do acidentado. A aplicação permite também imprimir o formulário da CAT em branco para preenchimento das informações do Empregador, do Acidentado, do Acidente e do Atestado Médico.
-
-* [Telefone](undefined): Ligue 135 para obter maiores informações.</descricao>
-    <gratuito/>
-    <solicitantes/>
+    <nome><![CDATA[Cadastramento da Comunicação de Acidente de Trabalho (CAT)]]></nome>
+    <sigla>GHF -ME</sigla>
+    <nomes-populares>
+        <item>Gustavo Henrique de França - ME</item>
+    </nomes-populares>
+    <descricao><![CDATA[Função: Ajudante de Obra
+Estava derrubando um barraco, ao puxar uma tábua, vim com o corpo para trás e caí sobre a caixa externa, cousando lesões no abdome e joelho, não recebi atendimento médico imediato, terminei minhas tarefas e fui para casa com fortes dores. Cheguei em casa com muitas dores e me dirigi até a policlínica do Planalto às 21 h, fui atendido pelo médico plantonista e fiz Raio X, fui medicado com atestado médico de 2 dias (19/07/2016).]]></descricao>
+    <contato/>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>ALLEF JHONY GONÇALVES DA SILVA</tipo>
+            <requisitos><![CDATA[ENSINO MÉDIO COMPLETO.]]></requisitos>
+        </solicitante>
+    </solicitantes>
     <tempo-total-estimado>
+        <ate max="8" unidade="meses"/>
         <descricao/>
     </tempo-total-estimado>
     <etapas>
@@ -24,7 +32,7 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="web">
-                        <descricao>http://www.dataprev.gov.br/servicos/cat/cat.shtm</descricao>
+                        <descricao><![CDATA[http://www.dataprev.gov.br/servicos/cat/cat.shtm]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -33,6 +41,7 @@
     <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1930"/>
     <segmentos-da-sociedade>
         <item>Empresas</item>
+        <item>Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Previdência Social</item>
