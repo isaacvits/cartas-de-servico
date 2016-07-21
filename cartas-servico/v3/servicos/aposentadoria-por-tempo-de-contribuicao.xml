@@ -2,13 +2,21 @@
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
     <nome><![CDATA[Aposentadoria por Tempo de Contribuição]]></nome>
     <sigla>Aposentadoria por tempo de contribuição</sigla>
-    <nomes-populares/>
+    <nomes-populares>
+        <item>Agnaldo Rodrigues de Oliveira</item>
+    </nomes-populares>
     <descricao><![CDATA[Benefício devido ao segurado após completar o período de contribuição. Pode ser integral ou proporcional. Para ter direito à aposentadoria integral, o trabalhador homem deve comprovar pelo menos 35 anos de i contribuição e a trabalhadora mulher, 30 anos. Para requerer a aposentadoria proporcional, o trabalhador tem que combinar dois requisitos: tempo de contribuição e idade mínima.
 
 * [Telefone](http://www.mpas.gov.br/conteudoDinamico.php?id=357): Ligue 135 para mais informações]]></descricao>
     <contato/>
     <gratuito/>
-    <solicitantes/>
+    <solicitantes>
+        <solicitante>
+            <tipo/>
+            <requisitos><![CDATA[Aposentadorian
+ por tempo de contribuição]]></requisitos>
+        </solicitante>
+    </solicitantes>
     <tempo-total-estimado>
         <descricao/>
     </tempo-total-estimado>
