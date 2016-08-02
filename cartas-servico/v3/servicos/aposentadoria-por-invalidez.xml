@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Aposentadoria por Invalidez</nome>
+    <nome><![CDATA[Aposentadoria por Invalidez]]></nome>
     <sigla/>
-    <nomes-populares/>
-    <descricao>Benefício concedido aos trabalhadores que, por doença ou acidente, forem considerados pela perícia médica da Previdência Social incapacitados para exercer suas atividades ou outro tipo de serviço que lhes garanta o sustento.</descricao>
+    <nomes-populares>
+        <item>Maria jose de oliveira alved</item>
+    </nomes-populares>
+    <descricao><![CDATA[Benefício concedido aos trabalhadores que, por doença ou acidente, forem considerados pela perícia médica da Previdência Social incapacitados para exercer suas atividades ou outro tipo de serviço que lhes garanta o sustento.]]></descricao>
+    <contato/>
     <gratuito/>
     <solicitantes/>
     <tempo-total-estimado>
@@ -22,10 +25,10 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="web-agendar">
-                        <descricao>http://www.dataprev.gov.br/servicos/auxdoe/auxdoe.htm</descricao>
+                        <descricao><![CDATA[http://www.dataprev.gov.br/servicos/auxdoe/auxdoe.htm]]></descricao>
                     </canal-de-prestacao>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao>Serviço prestado nas Agências da Previdência Social.</descricao>
+                        <descricao><![CDATA[Serviço prestado nas Agências da Previdência Social.]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
